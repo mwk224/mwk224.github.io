@@ -2,7 +2,7 @@
 
 ## Self Introduction
 
-Hi! My name is Meghan I am a senior at Lehigh University majoring in Finance!
+Hi! My name is Meghan I am a senior at Lehigh University majoring in Finance minoring in mass communication! I'm really interested in pursuing fixed income, research or risk positions within the financial industry upon graduation. In my free time I like to run, bake and do crossword puzzles!
 
 [Linkedin](www.linkedin.com/in/meghan-kelly-)
 
