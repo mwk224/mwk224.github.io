@@ -9,5 +9,5 @@ Hi! My name is Meghan I am a senior at Lehigh University majoring in Finance min
 ![profilepic](https://github.com/mwk224/mwk224.github.io/blob/main/vantine_linked_in_2647416.jpg?raw=true)
 
 ## Infographic on Undergraduate Enrollment at Lehigh
-## This infograohic displays the distribution of male and female students across Lehigh's verious colleges from Fall 2023 data provided by the University. 
+This infographic displays the distribution of male and female students across Lehigh's various colleges from Fall 2023 data provided by the University. 
 ![CanvaPractice](https://github.com/mwk224/mwk224.github.io/blob/main/Screen%20Shot%202024-02-22%20at%2010.08.58%20AM.png?raw=true)
