@@ -14,4 +14,4 @@ This infographic displays the distribution of male and female students across Le
 
 
 ## Map of Top Cycling Cities Around the World
-![Map](<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1rngOXbYQUNGQhJfgL7BrH18QhTgaAZI&ehbc=2E312F" width="640" height="480"></iframe>)
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1rngOXbYQUNGQhJfgL7BrH18QhTgaAZI&ehbc=2E312F" width="640" height="480"></iframe>
