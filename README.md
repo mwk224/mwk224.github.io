@@ -17,4 +17,4 @@ This infographic displays the distribution of male and female students across Le
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1rngOXbYQUNGQhJfgL7BrH18QhTgaAZI&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## Map of Best Places for New College Grads
-https://www.google.com/maps/d/u/0/edit?mid=1k0Kd_2PGKIc_jv1CLq840W-ZIh0vPD8&ll=41.88069519228486%2C-105.80447379514905&z=4
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1k0Kd_2PGKIc_jv1CLq840W-ZIh0vPD8&ehbc=2E312F" width="640" height="480"></iframe>
