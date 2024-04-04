@@ -18,3 +18,6 @@ This infographic displays the distribution of male and female students across Le
 
 ## Map of Best Places for New College Grads
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1k0Kd_2PGKIc_jv1CLq840W-ZIh0vPD8&ehbc=2E312F" width="640" height="480"></iframe>
+
+##Party Data Tableau
+<img width="1330" alt="Screen Shot 2024-04-04 at 9 27 44 AM" src="https://github.com/mwk224/mwk224.github.io/assets/160147441/c2fb9446-747d-4c06-bcdd-5c2ee915cdda">
