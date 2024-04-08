@@ -21,3 +21,11 @@ This infographic displays the distribution of male and female students across Le
 
 ##Party Data Tableau
 <img width="1330" alt="Screen Shot 2024-04-04 at 9 27 44 AM" src="https://github.com/mwk224/mwk224.github.io/assets/160147441/c2fb9446-747d-4c06-bcdd-5c2ee915cdda">
+
+##Higher Education Data Tableau 
+(https://public.tableau.com/views/HigherEdData_17122405620700/Story1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+
+
+##Food Price Outlook & CPI Change Over Time 
+This project from the economic research service looks at annual food price data, forecasts their potential prices in the near future, and analyzes price changes in consumer goods and services.  
+(https://public.tableau.com/views/CPIHW/CPIforMidUpperClass?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
