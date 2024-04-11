@@ -23,7 +23,7 @@ This interactive map shows the best places in the United States for individuals 
 
 ## Party Data Tableau
 This tableau assignment outlines party data from Lehigh University conducted by data jounalism students. The data outline swhere students like to party depending on gender and their favorite aspects of on cmapus vs. on campus social events. 
-<img width="1330" alt="Screen Shot 2024-04-04 at 9 27 44 AM" src="https://github.com/mwk224/mwk224.github.io/assets/160147441/c2fb9446-747d-4c06-bcdd-5c2ee915cdda">
+(https://public.tableau.com/views/PartyData_17116361118730/PartyLocation?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Higher Education Data Tableau 
 (https://public.tableau.com/views/HigherEdData_17122405620700/Story1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
